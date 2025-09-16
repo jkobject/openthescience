@@ -55,7 +55,7 @@ Connect with researchers worldwide. Share ideas, collaborate on projects, and ad
 ### Coming Soon!
 We're just getting started! Our first research briefs will be published soon. Want to be one of our first authors?
 
-[Submit Your Research]({{ '/research-briefs/' | relative_url }}#submit-your-research){: .btn .btn--primary}
+[Submit Your Research]({{ '/submission/' | relative_url }}){: .btn .btn--primary}
 {% endif %}
 
 ## Get Involved

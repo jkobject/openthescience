@@ -44,10 +44,17 @@ We welcome various types of scientific content:
 Research briefs are concise, focused publications that present scientific findings in an accessible format. They're typically shorter than traditional journal articles but maintain the same scientific rigor.
 
 ### How do I submit a research brief?
-Currently, submissions are handled through our GitHub repository. We're developing a more user-friendly submission system. For now:
-1. Fork our repository
-2. Add your brief to the `_research-briefs` folder
-3. Submit a pull request
+
+We now use **OpenReview** for our submission process with bi-monthly review cycles. Here's how to submit:
+
+1. **First, upload your paper to a preprint server** (bioRxiv, medRxiv, arXiv, etc.)
+2. **Review our [complete submission guidelines](/submission/)**  
+3. **Submit through OpenReview** during the next bi-monthly window
+4. **Engage with reviewers** during the double-blind peer review process
+
+For detailed requirements, formatting guidelines, and submission schedules, please visit our [submission page](/submission/).
+
+*Legacy GitHub-based submissions are being phased out in favor of the OpenReview process.*
 4. Our community will review and provide feedback
 
 ### What format should my submission be in?
