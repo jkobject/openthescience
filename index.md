@@ -27,15 +27,15 @@ The Open Science Publishing Club exists to:
 
 ### 🔓 Open Access Publishing
 Publish your research without paywalls. Make your work accessible to the global scientific community.
-[Publish Now](/research-briefs/){: .btn .btn--primary}
+[Publish Now]({{ '/research-briefs/' | relative_url }}){: .btn .btn--primary}
 
 ### 👥 Community Peer Review
 Join our reviewers club for transparent, constructive peer review that improves scientific quality.
-[Join Reviewers](/reviewers-club/){: .btn .btn--primary}
+[Join Reviewers]({{ '/reviewers-club/' | relative_url }}){: .btn .btn--primary}
 
 ### 🌍 Global Collaboration
 Connect with researchers worldwide. Share ideas, collaborate on projects, and advance science together.
-[Join Community](/community/){: .btn .btn--primary}
+[Join Community]({{ '/community/' | relative_url }}){: .btn .btn--primary}
 
 ## Recent Research Briefs
 
@@ -55,7 +55,7 @@ Connect with researchers worldwide. Share ideas, collaborate on projects, and ad
 ### Coming Soon!
 We're just getting started! Our first research briefs will be published soon. Want to be one of our first authors?
 
-[Submit Your Research](/research-briefs/#submit-your-research){: .btn .btn--primary}
+[Submit Your Research]({{ '/research-briefs/' | relative_url }}#submit-your-research){: .btn .btn--primary}
 {% endif %}
 
 ## Get Involved
