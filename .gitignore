@@ -1,0 +1,13 @@
+# Build artifacts and dependencies that should not be committed
+node_modules/
+package-lock.json
+*.pyc
+__pycache__/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.vscode/
+.idea/
+*.log
