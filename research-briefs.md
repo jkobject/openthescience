@@ -57,7 +57,7 @@ Research briefs are focused scientific publications that:
 <div class="notice--info">
   <h4>No Research Briefs Yet</h4>
   <p>We're just getting started! Our first research briefs will be published soon. Want to be one of our first authors?</p>
-  <p><a href="#submit-your-research" class="btn btn--primary">Submit Your Research</a></p>
+  <p><a href="/submission/" class="btn btn--primary">Submit Your Research</a></p>
 </div>
 {% endif %}
 
@@ -110,7 +110,24 @@ Your research brief should:
 
 Ready to share your research with the world? Here's how:
 
-### Current Submission Process (GitHub-based)
+### Current Submission Process
+
+Ready to share your research with the world? 
+
+**[📝 View Complete Submission Guidelines](/submission/){: .btn .btn--primary}**
+
+Our submission process uses OpenReview for transparent, bi-monthly review cycles. Before you begin:
+
+1. **Upload to preprint server** (bioRxiv, medRxiv, arXiv, etc.)
+2. **Review our format requirements** (based on Nature Communications standards)
+3. **Prepare double-blind manuscript**
+4. **Submit during the next bi-monthly window**
+
+For detailed guidelines, requirements, and submission schedules, please visit our [submission page](/submission/).
+
+### Quick Overview (GitHub-based Legacy Process)
+
+*Note: This process is being phased out in favor of OpenReview submissions*
 
 1. **Fork** our repository on GitHub
 2. **Create** a new file in the `_research-briefs` folder

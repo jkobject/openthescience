@@ -3,6 +3,8 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Submission"
+    url: /submission/
   - title: "Reviewers Club"
     url: /reviewers-club/
   - title: "Community"
