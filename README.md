@@ -61,4 +61,4 @@ This project is released under the Public Domain (Unlicense). See [LICENSE](LICE
 
 ## Hashtag
 
-#OST #OpenScience #PublishOrPerish #ScienceForAll
+#OTS #OpenTheScience #openpub
