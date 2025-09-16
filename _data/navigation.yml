@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Reviewers Club"
+    url: /reviewers-club/
+  - title: "Community"
+    url: /community/
+  - title: "Research Briefs"
+    url: /research-briefs/
+  - title: "FAQ"
+    url: /faq/
